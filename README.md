@@ -15,7 +15,7 @@ To verify Norton’s theorem practically and theoretically for the given DC circ
 
 **THEORY:**
 
-**NORTON’S THEOREM:**
+**NORTON’S THEOREM:** 
 
 Norton’s theorem states that, ‘a linear two-terminal circuit can be replaced by an equivalent circuit consisting of a current source, IN (=Isc) in parallel with a resistor RN (= RTh), where IN (=Isc) is the short-circuit current through the load terminals and RN is the equivalent resistance at the load terminals when the independent sources are turned off.Norton’s Current, IN or Isc:
 It is the short-circuit current through the load terminals. i.e., IN = Isc
