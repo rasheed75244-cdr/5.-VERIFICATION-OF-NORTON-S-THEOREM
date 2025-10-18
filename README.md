@@ -44,39 +44,6 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 ![C111](https://github.com/user-attachments/assets/b44784e3-839d-4eed-9b83-5a0d4f179941)
 
-
-
-
-**PROCEDURE:**
-
-1.	Make the connections as per the Circuit Diagram:1
-
-2.	Vary the RPS and set an input voltage of 10V.
-
-3.	Note down the voltmeter reading (Vi) and ammeter reading (IL) in Tabular Column 1.
-
-4.	Switch off the supply and make connections for Circuit Diagram 2.
-
-5.	Measure the Thevenin’s resistance RTh= Norton’s resistance RN .
-
-6.	Switch off the supply and make connections for Circuit Diagram:3.
-
-7.	Set an input voltage of 10V in the RPS and note down the voltmeter readings Vi and VTh(=Voc) in Tabular Column:3
-
-8.	Switch off the supply and make connections for Circuit Diagram 4.
-
-9.	Set an input voltage of 10V in the RPS and note down the voltmeter reading Vi and Ammeter reading IN (= Isc) in Tabular Column 4.
-
-10.	Draw the Thevenin’s equivalent circuit and Nortons’s equivalent circuit as shown in circuit diagrams 5 & 6 respectively.
-
-11.	Calculate the IL value using the formula
-
-   	Thevenin’s Theorem IL = VTh/ ( RTh+ R L)
-
-   	Norton’s Theorem IL = IN * RN / ( RN + RL )
-
-12.	Theoretically verify the Norton’s theorem.
-
 **TABULAR COLUMN: 1**
 To measure I L
 
@@ -120,6 +87,39 @@ IL = IN * RN / ( RN+ RL ) = 2.75m
 
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
  
+
+
+
+**PROCEDURE:**
+
+1.	Make the connections as per the Circuit Diagram:1
+
+2.	Vary the RPS and set an input voltage of 10V.
+
+3.	Note down the voltmeter reading (Vi) and ammeter reading (IL) in Tabular Column 1.
+
+4.	Switch off the supply and make connections for Circuit Diagram 2.
+
+5.	Measure the Thevenin’s resistance RTh= Norton’s resistance RN .
+
+6.	Switch off the supply and make connections for Circuit Diagram:3.
+
+7.	Set an input voltage of 10V in the RPS and note down the voltmeter readings Vi and VTh(=Voc) in Tabular Column:3
+
+8.	Switch off the supply and make connections for Circuit Diagram 4.
+
+9.	Set an input voltage of 10V in the RPS and note down the voltmeter reading Vi and Ammeter reading IN (= Isc) in Tabular Column 4.
+
+10.	Draw the Thevenin’s equivalent circuit and Nortons’s equivalent circuit as shown in circuit diagrams 5 & 6 respectively.
+
+11.	Calculate the IL value using the formula
+
+   	Thevenin’s Theorem IL = VTh/ ( RTh+ R L)
+
+   	Norton’s Theorem IL = IN * RN / ( RN + RL )
+
+12.	Theoretically verify the Norton’s theorem.
+
 
 
 **RESULT:**
