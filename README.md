@@ -42,8 +42,9 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 
 
+![C111](https://github.com/user-attachments/assets/b44784e3-839d-4eed-9b83-5a0d4f179941)
 
-![c4](https://github.com/user-attachments/assets/4f25d626-406b-41dd-aa02-046e0c3df35c)
+
 
 
 **PROCEDURE:**
