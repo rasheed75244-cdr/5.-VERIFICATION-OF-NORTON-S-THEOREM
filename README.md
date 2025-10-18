@@ -118,9 +118,12 @@ Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
 
    	Norton’s Theorem IL = IN * RN / ( RN + RL )
 
+
 12.	Theoretically verify the Norton’s theorem.
 
+**MARK SPLITUP:**
 
+![WhatsApp Image 2025-10-16 at 19 46 24_15ef591c](https://github.com/user-attachments/assets/b6196b64-c3c2-4aa8-b973-4ca0c19fd35f)
 
 **RESULT:**
 
