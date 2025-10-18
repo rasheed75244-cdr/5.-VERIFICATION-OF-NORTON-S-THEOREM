@@ -92,9 +92,7 @@ To measure RTh or RN
 
 Vi (volts)	RTh (Ω)
 
-
-
-![ip7703](https://github.com/user-attachments/assets/0af48656-57f9-486f-8585-bc011f3a73f2)
+![ip7703](https://github.com/user-attachments/assets/c67a518c-6999-46fb-8106-4eba23610728)
 
 
 **TABULAR COLUMN:3**
@@ -103,9 +101,9 @@ To measure IN or Isc
 
 Vi (volts)	IN (amps)
 
+![ip7704](https://github.com/user-attachments/assets/6b6ba8b4-5642-45ab-9786-77ebdd294bb5)
 
-	![ip7704](https://github.com/user-attachments/assets/b105c37f-4b85-4f75-8693-96c33e379b83)
-
+	
 **MODEL CALCULATION:**
 ![WhatsApp Image 2025-10-16 at 19 46 21_6bc2f5dd](https://github.com/user-attachments/assets/41997a6b-e555-4ba5-a00a-edd0d3723379)
 
